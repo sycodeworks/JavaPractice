@@ -1,0 +1,2 @@
+//after remane github account
+git remote set-url origin https://github.com/sycodeworks/JavaPractice.git
