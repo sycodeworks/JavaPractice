@@ -1,2 +1,8 @@
-//after remane github account
+//This is the standard command when a GitHub username, repository name, or remote URL changes.
 git remote set-url origin https://github.com/sycodeworks/JavaPractice.git
+
+//clone
+git clone https://github.com/sycodeworks/JavaPractice.git
+
+//Check current remote URL
+git remote -v
